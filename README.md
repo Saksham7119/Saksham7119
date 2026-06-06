@@ -1,3 +1,20 @@
+Hi 👋, I'm Saksham Bajpai
+🚀 Full Stack Developer | Java & Spring Boot Enthusiast | AWS Learner
+
+I'm a Computer Science student from India passionate about building scalable web applications, learning cloud technologies, and solving challenging problems through Data Structures & Algorithms.
+
+💡 Interests:
+
+Full Stack Development
+Backend Engineering
+Software Architecture
+Open Source
+
+🎯 Goals for 2026:
+
+Secure a Software Development Internship
+Build Production-Ready Full Stack Applications
+Contribute to Open Source
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saksham.bajpai_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-bajpai-03668b278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saksham.bajpai.work@gmail.com) 
@@ -9,7 +26,3 @@
 ![](https://streak-stats.demolab.com/?user=Saksham7119&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saksham7119&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
